@@ -1,15 +1,15 @@
-#Pkg update
+#pkg update
 
 #pkg upgrade
 
 #pkg install python2
 
-#Pip2 install mechanize
+#pip2 install mechanize
 
-#Pip2 install requests
+#pip2 install requests
 
 #git clone https://github.com/Dans014/Dans014/edit/main/README.md
 
 #cd hackFB
 
-#Python hackFB.py
+#python hackFB.py
